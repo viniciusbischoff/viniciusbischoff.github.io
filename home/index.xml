@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Vinicius Bischoff</title>
+    <link>https://viniciusbischoff.github.io/home/</link>
+    <description>Recent content in Homes on Vinicius Bischoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://viniciusbischoff.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://viniciusbischoff.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciusbischoff.github.io/home/about/</guid>
+      <description>Biography Vinicius Bischoff started the Ph.D. in Applied Computing at University of Vale do Rio dos Sinos at 2018. In 2017 Bischoff, received his M.Sc. degree in Applied Computing from the Interdisciplinary Post Graduate Program in Applied Computing (PPGCA) at Unisinos . This Master of Science course was under the supervision of Dr. Kleinner Farias with coorientation of Dr. Jorge Luis Victória Barbosa.
+His main research interests are related to the Software Engineering research field, specifically on software modeling, Experiments on Software Engineering, Object Oriented Software Development, Software Architectures, and Agrotechnology applied in software engineering activities.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://viniciusbischoff.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://viniciusbischoff.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://viniciusbischoff.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciusbischoff.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
